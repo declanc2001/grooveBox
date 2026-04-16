@@ -1,0 +1,9 @@
+2026/04/02-17:19:26.161 5 Reusing MANIFEST /home/declanc01/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/02-17:19:26.254 5 Recovering log #6
+2026/04/02-17:19:26.257 5 Reusing old log /home/declanc01/.config/chromium/Default/Local Storage/leveldb/000006.log 
+2026/04/02-17:29:09.947 7 Level-0 table #10: started
+2026/04/02-17:29:09.982 7 Level-0 table #10: 566654 bytes OK
+2026/04/02-17:29:09.987 7 Delete type=0 #6
+2026/04/02-17:31:02.620 5 Level-0 table #12: started
+2026/04/02-17:31:02.626 5 Level-0 table #12: 16422 bytes OK
+2026/04/02-17:31:02.631 5 Delete type=0 #9

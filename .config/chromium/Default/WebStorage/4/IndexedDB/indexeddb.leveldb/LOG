@@ -1,0 +1,15 @@
+2026/04/06-12:31:10.866 66e Reusing MANIFEST /home/declanc01/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/04/06-12:31:10.867 66e Recovering log #22
+2026/04/06-12:31:10.889 66e Reusing old log /home/declanc01/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000022.log 
+2026/04/07-17:22:41.687 66f Level-0 table #27: started
+2026/04/07-17:22:41.756 66f Level-0 table #27: 1642586 bytes OK
+2026/04/07-17:22:41.761 66f Delete type=0 #22
+2026/04/07-17:22:41.762 66f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/07-17:22:41.762 66f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0)\x10.\xd5yB\x00\x03\x00\x00\x00\x00\x00\xc0Q@' @ 9694 : 1
+2026/04/07-17:22:41.762 66f Compacting 1@1 + 1@2 files
+2026/04/07-17:22:41.780 66f Generated table #28@1: 381 keys, 168133 bytes
+2026/04/07-17:22:41.780 66f Compacted 1@1 + 1@2 files => 168133 bytes
+2026/04/07-17:22:41.785 66f compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/07-17:22:41.785 66f Delete type=2 #27
+2026/04/07-17:22:41.785 66f Delete type=2 #24
+2026/04/07-17:22:41.786 66f Manual compaction at level-1 from '\x00\x07\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xa0)\x10.\xd5yB\x00\x03\x00\x00\x00\x00\x00\xc0Q@' @ 9694 : 1 .. (end); will stop at (end)

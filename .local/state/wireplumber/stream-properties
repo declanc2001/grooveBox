@@ -1,0 +1,4 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"mute":false, "channelMap":["FL", "FR"], "volume":1.000000, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:ALSA\splug-in\s\ospeaker-test\c={"mute":false, "volume":1.000000, "channelVolumes":[1.000000], "channelMap":["MONO"]}
+Output/Audio:application.name:Chromium={"channelMap":["FL", "FR"], "volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000]}

@@ -1,0 +1,27 @@
+2026/04/06-12:28:42.055 5 Reusing MANIFEST /home/declanc01/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/06-12:28:42.147 5 Recovering log #11
+2026/04/06-12:28:42.158 5 Reusing old log /home/declanc01/.config/chromium/Default/Local Storage/leveldb/000011.log 
+2026/04/06-12:30:48.927 7 Level-0 table #15: started
+2026/04/06-12:30:48.935 7 Level-0 table #15: 27333 bytes OK
+2026/04/06-12:30:48.943 7 Delete type=0 #11
+2026/04/06-12:31:48.926 7 Level-0 table #17: started
+2026/04/06-12:31:48.935 7 Level-0 table #17: 16510 bytes OK
+2026/04/06-12:31:48.940 7 Delete type=0 #14
+2026/04/06-12:31:48.941 7 Compacting 4@0 + 1@1 files
+2026/04/06-12:31:48.951 7 Generated table #18@0: 25 keys, 13212 bytes
+2026/04/06-12:31:48.951 7 Compacted 4@0 + 1@1 files => 13212 bytes
+2026/04/06-12:31:48.957 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/06-12:31:48.958 7 Delete type=2 #15
+2026/04/06-12:31:48.958 7 Delete type=2 #10
+2026/04/06-12:31:48.958 7 Delete type=2 #17
+2026/04/06-12:31:48.958 7 Delete type=2 #7
+2026/04/06-12:31:48.958 7 Delete type=2 #12
+2026/04/06-13:01:10.193 5 Level-0 table #20: started
+2026/04/06-13:01:10.201 5 Level-0 table #20: 18633 bytes OK
+2026/04/06-13:01:10.207 5 Delete type=0 #16
+2026/04/07-17:22:55.157 5 Level-0 table #22: started
+2026/04/07-17:22:55.171 5 Level-0 table #22: 140465 bytes OK
+2026/04/07-17:22:55.177 5 Delete type=0 #19
+2026/04/07-17:25:01.878 7 Level-0 table #24: started
+2026/04/07-17:25:01.887 7 Level-0 table #24: 137832 bytes OK
+2026/04/07-17:25:01.892 7 Delete type=0 #21

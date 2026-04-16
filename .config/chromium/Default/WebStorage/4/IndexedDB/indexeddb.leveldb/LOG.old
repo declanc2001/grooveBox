@@ -1,0 +1,15 @@
+2026/04/02-17:29:05.523 634 Reusing MANIFEST /home/declanc01/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/04/02-17:29:05.523 634 Recovering log #17
+2026/04/02-17:29:05.531 634 Reusing old log /home/declanc01/.config/chromium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000017.log 
+2026/04/02-17:29:05.531 634 Delete type=2 #14
+2026/04/02-17:29:05.532 634 Delete type=2 #19
+2026/04/02-17:29:11.128 634 Level-0 table #23: started
+2026/04/02-17:29:11.144 634 Level-0 table #23: 255257 bytes OK
+2026/04/02-17:29:11.149 634 Delete type=0 #17
+2026/04/02-17:29:11.149 634 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/02-17:29:11.548 635 Compacting 1@1 + 1@2 files
+2026/04/02-17:29:11.555 635 Generated table #24@1: 124 keys, 38170 bytes
+2026/04/02-17:29:11.556 635 Compacted 1@1 + 1@2 files => 38170 bytes
+2026/04/02-17:29:11.560 635 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/02-17:29:11.560 635 Delete type=2 #20
+2026/04/02-17:29:11.560 635 Delete type=2 #23
